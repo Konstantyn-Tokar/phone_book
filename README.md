@@ -1,1 +1,1 @@
-# phone_book
+# goit-react-hw-06-phonebook
